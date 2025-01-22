@@ -50,7 +50,7 @@ lib/
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/nimeshdkumarawansha/sqlite_api_auth
 ```
 
 2. Navigate to the project directory:
