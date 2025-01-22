@@ -55,7 +55,7 @@ git clone https://github.com/nimeshdkumarawansha/sqlite_api_auth
 
 2. Navigate to the project directory:
 ```bash
-cd sqlite_api_aut
+cd sqlite_api_auth
 ```
 
 3. Get dependencies:
